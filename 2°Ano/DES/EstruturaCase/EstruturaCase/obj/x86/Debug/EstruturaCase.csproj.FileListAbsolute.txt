@@ -1,0 +1,17 @@
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\bin\Debug\EstruturaCase.exe
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\bin\Debug\EstruturaCase.pdb
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.Form1.resources
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.Properties.Resources.resources
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.csproj.GenerateResource.Cache
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.exe
+F:\ETEC\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.pdb
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.exe
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.pdb
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\bin\Debug\EstruturaCase.exe
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\bin\Debug\EstruturaCase.pdb
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.csprojResolveAssemblyReference.cache
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.Form1.resources
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.Properties.Resources.resources
+K:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.csproj.GenerateResource.Cache
+F:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.exe
+F:\Etec Amim Jundi\2°Ano\DES\EstruturaCase\EstruturaCase\obj\x86\Debug\EstruturaCase.pdb

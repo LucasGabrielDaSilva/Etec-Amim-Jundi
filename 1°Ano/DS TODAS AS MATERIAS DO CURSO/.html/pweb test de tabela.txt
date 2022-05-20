@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ 
+    <head> 
+         <title> Exemplo de Tabelas</title> 
+   </head> 
+<body> 
+      <center> 
+ 
+          <font color=BLUE SIZE=6> TABELA      </FONT>      <BR> 
+ 
+    <table border=1>
+ 
+        <tr> 
+            <td>PRIMEIRA COLUNA da 1º linha </td> 
+            <td>SEGUNDA COLUNA da 1º linha</td> 
+        </tr> 
+ 
+        <tr> 
+            <td> PRIMEIRA COLUNA da 2º linha</td> 
+            <td> SEGUNDA COLUNA da 2º linha</td> 
+        </td> 
+ 
+        <tr> 
+            <td> PRIMEIRA COLUNA da 3º linha</td> 
+            <td> SEGUNDA COLUNA da 3º linha</td> 
+        </tr> 
+ 
+    </table> 
+	
+</body> 
+</html>

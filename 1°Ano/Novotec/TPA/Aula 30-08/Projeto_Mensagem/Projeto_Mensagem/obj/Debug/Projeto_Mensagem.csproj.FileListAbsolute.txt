@@ -1,0 +1,10 @@
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\bin\Debug\Projeto_Mensagem.exe.config
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\bin\Debug\Projeto_Mensagem.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\bin\Debug\Projeto_Mensagem.pdb
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.csprojAssemblyReference.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.Properties.Resources.resources
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.csproj.GenerateResource.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.csproj.CoreCompileInputs.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.pdb
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 30-08\Projeto_Mensagem\Projeto_Mensagem\obj\Debug\Projeto_Mensagem.atvd.resources

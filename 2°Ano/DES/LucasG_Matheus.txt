@@ -1,0 +1,27 @@
+Lucas Gabriel e Matheus Bruno.
+
+Computador:
+
+Estado:
+Modelo,Configurações, Preço, Suporte.
+
+Comportamento:Pesquisar informações, Receber
+Informações, Programar, Navegar na Internet.
+
+Identidade:IP e
+Número de Série.  
+
+
+
+Nota Fiscal:
+
+Estado:
+Nome do Comprador, CNPJ da empresa, Endereço
+da Empresa.
+
+Comportamento:
+Calculo de Impostos, Estimativa de 
+Faturamento e Controle de Estoque.
+
+Identidade:CNPJ.
+

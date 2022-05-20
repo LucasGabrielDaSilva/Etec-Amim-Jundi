@@ -1,0 +1,7 @@
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\obj\x86\Debug\Revisao.Form1.resources
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\obj\x86\Debug\Revisao.Properties.Resources.resources
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\obj\x86\Debug\Revisao.csproj.GenerateResource.Cache
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\bin\Debug\Revisao.exe
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\bin\Debug\Revisao.pdb
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\obj\x86\Debug\Revisao.exe
+F:\Etec Amim Jundi\2°Ano\DES\Revisao\Revisao\obj\x86\Debug\Revisao.pdb

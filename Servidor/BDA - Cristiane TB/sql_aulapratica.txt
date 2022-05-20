@@ -1,0 +1,39 @@
+create database AulaSelect
+use AulaSelect
+
+CREATE TABLE  CLIENTES 
+(
+  codigo  int  primary key not null,
+  nome  varchar (60) not null,
+  cidade  varchar (40) not null,
+  estado varchar (02) not null,
+  pais  varchar (35) not null,
+  celular  varchar (25) not null,
+  email   varchar (50) not null,
+  fone_fixo varchar (25) not null
+ );
+INSERT INTO CLIENTES (codigo, nome, cidade, estado, pais, celular, email, fone_fixo) 
+ VALUES (1,'Raul Cunha', 'Osvaldo Cruz', 'SP', 'Brasil', '999999999', 'raul@gmail.com', '35280022');
+ 
+ INSERT INTO CLIENTES (codigo, nome, cidade, estado, pais, celular, email, fone_fixo) 
+ VALUES (2,'Gabriela Santos', 'Osvaldo Cruz', 'SP', 'Brasil', '999874532', 'gabi@gmail.com', '35288765');
+ 
+ INSERT INTO CLIENTES (codigo, nome, cidade, estado, pais, celular, email, fone_fixo) 
+ VALUES (3,'Pedro Fonseca', 'Rio de Janeiro', 'RJ', 'Brasil', '997654389', 'pedro@outlook.com', '37378954');
+ 
+ INSERT INTO CLIENTES (codigo, nome, cidade, estado, pais, celular, email, fone_fixo) 
+ VALUES (4,'Maria Silva', 'Salvador', 'BA', 'Brasil', '996508765', 'maria@gmail.com', '78654321');
+
+
+CREATE TABLE  produtos 
+(
+  codigo  int  primary key not null,
+  Descricao varchar(30) not null,
+  preco  numeric (5,2) not null
+  );
+  
+  
+INSERT INTO produtos (codigo, descricao, preco) 
+ VALUES (1, 'Chocolate', '10.5');
+INSERT INTO produtos (codigo, descricao, preco) 
+ VALUES (2, 'Suco', '5');

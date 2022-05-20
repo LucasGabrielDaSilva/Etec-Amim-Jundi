@@ -1,0 +1,18 @@
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\bin\Debug\Sistema Consulta.exe
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\bin\Debug\Sistema Consulta.pdb
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema_Consulta.Form1.resources
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema_Consulta.Properties.Resources.resources
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.csproj.GenerateResource.Cache
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.exe
+F:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.pdb
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\bin\Debug\Sistema Consulta.exe.config
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\bin\Debug\Sistema Consulta.exe
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\bin\Debug\Sistema Consulta.pdb
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.csproj.AssemblyReference.cache
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.csproj.SuggestedBindingRedirects.cache
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema_Consulta.Form1.resources
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema_Consulta.Properties.Resources.resources
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.csproj.GenerateResource.cache
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.csproj.CoreCompileInputs.cache
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.exe
+D:\Etec Amim Jundi\2°Ano\DES\Sistemas De Consultas\Sistema Consulta\Sistema Consulta\obj\x86\Debug\Sistema Consulta.pdb

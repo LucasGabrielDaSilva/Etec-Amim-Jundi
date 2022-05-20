@@ -1,0 +1,10 @@
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csprojAssemblyReference.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade_3.Form1.resources
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade_3.Properties.Resources.resources
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.GenerateResource.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.CoreCompileInputs.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\bin\Debug\Atividade 3.exe.config
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\bin\Debug\Atividade 3.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\bin\Debug\Atividade 3.pdb
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade 3.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Atividades VS\Atividade 3\Atividade 3\obj\Debug\Atividade 3.pdb

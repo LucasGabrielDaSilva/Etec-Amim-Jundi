@@ -1,0 +1,16 @@
+         table,tr {
+		 border:1px solid blue;
+		        }
+   	     th, td {
+		 color:	#D32500;
+		 font-family:Arial;
+		 font-size:100%;
+		 }
+	     h2 {
+			 color:#D32500;
+		     font-family:Arial;
+		     font-size:100%;
+		    }
+		body {
+			background-color:black;
+		     }	

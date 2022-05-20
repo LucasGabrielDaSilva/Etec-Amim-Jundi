@@ -1,0 +1,10 @@
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.csprojAssemblyReference.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.Form1.resources
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.Properties.Resources.resources
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.csproj.GenerateResource.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.csproj.CoreCompileInputs.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\bin\Debug\Impressao.exe.config
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\bin\Debug\Impressao.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\bin\Debug\Impressao.pdb
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 14-09\Impressao\Impressao\obj\Debug\Impressao.pdb

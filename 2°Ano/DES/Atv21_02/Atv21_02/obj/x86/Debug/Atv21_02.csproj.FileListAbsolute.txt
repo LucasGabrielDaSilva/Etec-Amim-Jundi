@@ -1,0 +1,7 @@
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\obj\x86\Debug\Atv21_02.Form1.resources
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\obj\x86\Debug\Atv21_02.Properties.Resources.resources
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\obj\x86\Debug\Atv21_02.csproj.GenerateResource.Cache
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\bin\Debug\Atv21_02.exe
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\bin\Debug\Atv21_02.pdb
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\obj\x86\Debug\Atv21_02.exe
+F:\Etec Amim Jundi\2°Ano\DES\Atv21_02\Atv21_02\obj\x86\Debug\Atv21_02.pdb

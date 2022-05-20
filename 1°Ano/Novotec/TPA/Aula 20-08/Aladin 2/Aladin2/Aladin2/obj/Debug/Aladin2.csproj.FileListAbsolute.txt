@@ -1,0 +1,6 @@
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 20-08\Aladin 2\Aladin2\Aladin2\bin\Debug\Aladin2.exe.config
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 20-08\Aladin 2\Aladin2\Aladin2\bin\Debug\Aladin2.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 20-08\Aladin 2\Aladin2\Aladin2\bin\Debug\Aladin2.pdb
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 20-08\Aladin 2\Aladin2\Aladin2\obj\Debug\Aladin2.csproj.CoreCompileInputs.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 20-08\Aladin 2\Aladin2\Aladin2\obj\Debug\Aladin2.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Aula 20-08\Aladin 2\Aladin2\Aladin2\obj\Debug\Aladin2.pdb

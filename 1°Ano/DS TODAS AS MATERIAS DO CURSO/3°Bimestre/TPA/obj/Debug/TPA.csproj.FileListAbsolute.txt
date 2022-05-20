@@ -1,0 +1,7 @@
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\bin\Debug\TPA.exe.config
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\bin\Debug\TPA.exe
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\bin\Debug\TPA.pdb
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\obj\Debug\TPA.csproj.AssemblyReference.cache
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\obj\Debug\TPA.csproj.CoreCompileInputs.cache
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\obj\Debug\TPA.exe
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\TPA\obj\Debug\TPA.pdb

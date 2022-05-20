@@ -1,0 +1,7 @@
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+D:\Lucas- NOVOTEC DES - TB\TPA\Exemplo\Exemplo\obj\Debug\Exemplo.pdb

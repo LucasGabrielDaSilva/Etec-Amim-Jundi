@@ -1,0 +1,10 @@
+E:\TPA\Atividades VS\Calculo\Calculo\bin\Debug\Calculo.exe.config
+E:\TPA\Atividades VS\Calculo\Calculo\bin\Debug\Calculo.exe
+E:\TPA\Atividades VS\Calculo\Calculo\bin\Debug\Calculo.pdb
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.Form1.resources
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.exe
+E:\TPA\Atividades VS\Calculo\Calculo\obj\Debug\Calculo.pdb

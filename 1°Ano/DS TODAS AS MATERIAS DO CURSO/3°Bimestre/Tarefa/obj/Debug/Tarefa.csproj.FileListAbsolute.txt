@@ -1,0 +1,7 @@
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\obj\Debug\Tarefa.csproj.AssemblyReference.cache
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\obj\Debug\Tarefa.csproj.CoreCompileInputs.cache
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\bin\Debug\Tarefa.exe.config
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\bin\Debug\Tarefa.exe
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\bin\Debug\Tarefa.pdb
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\obj\Debug\Tarefa.exe
+C:\Lucas (Past_Pessoal)\Etec Amim Jundi\DS TODAS AS MATERIAS DO CURSO\3°Bimestre\Tarefa\obj\Debug\Tarefa.pdb
