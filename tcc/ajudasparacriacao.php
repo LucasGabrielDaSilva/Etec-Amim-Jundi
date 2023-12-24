@@ -1,2 +1,0 @@
-https://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=6328&Instituicao=LAR-SAO-VICENTE-DE-PAULO-OSVALDO-CRUZ
-https://listatudo.com.br/sao-paulo/presidente-prudente-e-regiao/osvaldo-cruz/governo-servicos-publicos-e-sociais/assistencia-social/asilos-e-abrigos/lar-sao-vicente-de-paulo-osvaldo-cruz/
